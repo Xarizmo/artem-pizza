@@ -2,6 +2,9 @@
 
 Online pizza shop. Let's make Pizza great again!
 
+You can find current version of app on
+[Artem Pizza Shop](https://artem-pizza.netlify.app)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
