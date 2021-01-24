@@ -1,0 +1,35 @@
+.App {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+}
+
+.navBar > ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+li {
+  list-style-type: none;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+button {
+  width: 80%;
+  padding: 10px 15px;
+  margin-top: 15px;
+  border-radius: 15px;
+  font-size: 1.5em;
+  background: rgb(0, 168, 150);
+  cursor: pointer;
+}
